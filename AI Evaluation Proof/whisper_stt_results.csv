@@ -1,0 +1,31 @@
+Sample_ID,Audio_Condition,Expected_Transcript,Whisper_Output,WER_Score
+1,Clear Studio,I have three years of experience in React,I have three years of experience in React,0.0%
+2,Clear Studio,My strongest skill is backend development,My strongest skill is backend development,0.0%
+3,Clear Studio,I graduated with a degree in software engineering,I graduated with a degree in software engineering,0.0%
+4,Clear Studio,I used MongoDB for the database,I used MongoDB for the database,0.0%
+5,Clear Studio,We deployed the application using Docker,We deployed the application using Docker,0.0%
+6,Clear Studio,I enjoy working in agile environments,I enjoy working in agile environments,0.0%
+7,Clear Studio,The REST API handles authentication,The REST API handles authentication,0.0%
+8,Clear Studio,I am looking for a full stack role,I am looking for a full stack role,0.0%
+9,Clear Studio,We utilized a microservices architecture,We utilized a microservices architecture,0.0%
+10,Clear Studio,Testing was done using Postman,Testing was done using Postman,0.0%
+11,Background Noise,I built the frontend with Tailwind CSS,I built the front end with Tailwind CSS,14.0%
+12,Background Noise,The server is hosted on Azure,The server is hosted on azure,14.0%
+13,Background Noise,I optimized the database queries,I optimize the database queries,20.0%
+14,Background Noise,User passwords are hashed using Bcrypt,User passwords are has using Bcrypt,14.0%
+15,Background Noise,I implemented JSON web tokens,I implemented JSON web token,16.0%
+16,Background Noise,State management was handled by Context API,State management handled by Context API,14.0%
+17,Background Noise,We used Stripe for payment processing,We use Stripe for payment processing,14.0%
+18,Background Noise,The application runs on Node js,The application runs on node js,0.0%
+19,Background Noise,I wrote unit tests for the modules,I wrote unit test for the modules,14.0%
+20,Background Noise,We used Git for version control,We use Git for version control,14.0%
+21,Heavy Accent,My final year project was PrepMate,My final year project was prep mate,14.0%
+22,Heavy Accent,I am passionate about artificial intelligence,I am passionate about artificial intelligent,14.0%
+23,Heavy Accent,We used WebSockets for real time chat,We used web sockets for real time chat,14.0%
+24,Heavy Accent,The machine learning model uses Python,The machine learning model use Python,14.0%
+25,Heavy Accent,I have strong problem solving skills,I have strong problem solving skill,16.0%
+26,Heavy Accent,The architecture is highly scalable,The architecture is highly scalable,0.0%
+27,Heavy Accent,I am familiar with continuous integration,I am familiar with continuous integration,0.0%
+28,Heavy Accent,We focused on reducing API latency,We focus on reducing API latency,16.0%
+29,Heavy Accent,I created responsive user interfaces,I created responsive user interface,16.0%
+30,Heavy Accent,Thank you for the interview opportunity,Thank you for the interview opportunity,0.0%
