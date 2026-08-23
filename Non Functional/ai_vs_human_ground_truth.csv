@@ -1,0 +1,11 @@
+Session_ID,Human_Expert_Score_Out_Of_10,Ollama_AI_Score,Score_Difference
+sess_8831,8.0,7.5,0.5
+sess_9102,7.5,7.0,0.5
+sess_1093,9.0,8.5,0.5
+sess_4414,6.5,6.5,0.0
+sess_2295,8.5,8.0,0.5
+sess_5516,7.0,7.5,-0.5
+sess_3387,9.5,8.5,1.0
+sess_7718,5.0,5.5,-0.5
+sess_6629,8.0,8.0,0.0
+sess_1130,7.5,8.0,-0.5
